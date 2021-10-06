@@ -3,7 +3,7 @@ This is the implementation of the paper: [Connecting the Dots: Sequence Model-ba
 
 ## Requirements
 The model is implemented using Python3 with dependencies specified in requirements.txt
-## Data Preparation
+## DataSet
 ### Multivariate time series datasets
 
 Dataset Included in the repo.
