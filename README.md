@@ -3,7 +3,7 @@ This is the implementation of the paper: [ : Sequence Model-based End-to-End Sol
 
 ## Requirements
 Baseline model was executed in colab.
-Sequence model was executed in Anaconda. You can find conda dependencies specified in requirements.txt
+Sequence Based model was executed in Anaconda. You can find conda dependencies specified in requirements.txt
 
 
 ## DataSet
@@ -19,10 +19,5 @@ Sampled_labels.pck
 ## Citation
 
 ```
-@inproceedings{wu2020connecting,
-  title={Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks},
-  author={Wu, Zonghan and Pan, Shirui and Long, Guodong and Jiang, Jing and Chang, Xiaojun and Zhang, Chengqi},
-  booktitle={Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
-  year={2020}
-}
+TBA
 ```
