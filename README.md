@@ -2,7 +2,10 @@
 This is the implementation of the paper: [Connecting the Dots: Sequence Model-based End-to-End Solar FlareClassification from Multivariate Time Series Data](). 
 
 ## Requirements
-The model is implemented using Python3 with dependencies specified in requirements.txt
+Baseline model was executed in colab.
+Sequence model was executed in Anaconda. You can find conda dependencies specified in requirements.txt
+
+
 ## DataSet
 ### Multivariate time series datasets
 
