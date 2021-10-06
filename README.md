@@ -21,5 +21,12 @@ Sampled_labels.pck
 ## Citation
 
 ```
-TBA
+@inproceedings{Muzaheed2021ICMLA,
+  title={ Sequence Model-based End-to-end Solar Flare Classification from Multivariate Time Series Data},
+  author={Muzaheed,A. A. M., Hamdi,S. M. and Boubrahimii,S. F.},
+  booktitle={Proceedings of the 2021 IEEE 20th International Conference on Machine Learning and Applications (ICMLA)},
+  year={2021}
+}
 ```
+
+
