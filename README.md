@@ -1,5 +1,5 @@
 # MVTS-based Solar Flare Classification using LSTM
-This is the implementation of the paper: [ : Sequence Model-based End-to-End Solar FlareClassification from Multivariate Time Series Data](). 
+This is the implementation of the paper: [Sequence Model-based End-to-End Solar FlareClassification from Multivariate Time Series Data](https://www.researchgate.net/publication/355158881_Sequence_Model-based_End-to-End_Solar_Flare_Classification_from_Multivariate_Time_Series_Data)
 
 ## DataSet
 ### Multivariate time series datasets
